@@ -1,4 +1,6 @@
 # flutterstudy
+# Timer function
+# Pomodoro
 
 A new Flutter project.
 
